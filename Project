@@ -1,0 +1,5 @@
+
+projectName = "protogame"
+libs = [ "SDL2", "SDL2_image", "GL" ]
+extraGppOpts = "-Wno-write-strings"
+# extraLinkerOpts = "--some-ld-option"
